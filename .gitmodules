@@ -1,0 +1,15 @@
+[submodule "ai"]
+    path = ai
+    url = https://github.com/bxstonpk/intelligent_parking_management_ai.git
+
+[submodule "backend"]
+    path = backend
+    url = https://github.com/bxstonpk/intelligent_parking_management_backend.git
+
+[submodule "db"]
+    path = db
+    url = https://github.com/bxstonpk/intelligent_parking_management_db.git
+
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/bxstonpk/intelligent_parking_management_frontend.git
