@@ -53,6 +53,8 @@ classDiagram
         +locationId : UUID
         +latitude : DECIMAL
         +longitude : DECIMAL 
+
+        +getResult() Object
     }
 
     class Spot { 
