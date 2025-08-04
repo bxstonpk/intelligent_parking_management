@@ -9,3 +9,7 @@ git clone https://github.com/bxstonpk/intelligent_parking_management.git
 cd thisis-smart-parking
 git submodule init
 git submodule update
+
+## SUB MODULE
+1. Frontend: https://github.com/bxstonpk/intelligent_parking_management_frontend.git
+2. BACKEND: https://github.com/bxstonpk/intelligent_parking_management_backend.git
